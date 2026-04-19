@@ -11,12 +11,6 @@ Tento úkol demonstruje nastavení lokální počítačové sítě (LAN) s využ
 ## Provedená konfigurace
 
 ### Hlavní přehled
-```bash
-Switch>enable
-Switch#configure terminal
-Switch(config)#hostname S1
-Switch (S1): Konfigurace hostname přes konzolový kabel z Laptopu.
-
 SRV1 (DNS & DHCP): * Nastavení DNS záznamu pro doménu vrabec.cz směřující na webový server.
 
 Konfigurace DHCP poolu pro automatické přidělování IP adres v síti.
@@ -32,3 +26,10 @@ Obsah odevzdání:
 lan.pkt – soubor s projektem Packet Tracer.
 
 screenshots/ – složka s důkazy funkčnosti (Terminal, DNS, Web, Ping, DHCP).
+
+
+```bash
+Switch>enable
+Switch#configure terminal
+Switch(config)#hostname S1
+Switch (S1): Konfigurace hostname přes konzolový kabel z Laptopu.
