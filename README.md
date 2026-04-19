@@ -22,7 +22,7 @@ Tento úkol demonstruje nastavení lokální počítačové sítě (LAN) s využ
 * PC2: Ověření funkčnosti DHCP (automatické získání adresy).
 
 Obsah odevzdání:
-´´´bash
+```bash
 
 lan.pkt – soubor s projektem Packet Tracer.
 
