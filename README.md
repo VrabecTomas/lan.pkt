@@ -26,10 +26,3 @@ Obsah odevzdání:
 lan.pkt – soubor s projektem Packet Tracer.
 
 screenshots/ – složka s důkazy funkčnosti (Terminal, DNS, Web, Ping, DHCP).
-
-
-```bash
-Switch>enable
-Switch#configure terminal
-Switch(config)#hostname S1
-Switch (S1): Konfigurace hostname přes konzolový kabel z Laptopu.
