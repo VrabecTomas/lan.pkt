@@ -23,6 +23,7 @@ Tento úkol demonstruje nastavení lokální počítačové sítě (LAN) s využ
 
 Obsah odevzdání:
 ´´´bash
+
 lan.pkt – soubor s projektem Packet Tracer.
 
 screenshots/ – složka s důkazy funkčnosti (Terminal, DNS, Web, Ping, DHCP).
