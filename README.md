@@ -1,4 +1,4 @@
-# Projekt: Konfigurace LAN sítě v Cisco Packet Tracer
+# Konfigurace LAN sítě v Cisco Packet Tracer
 
 Tento projekt demonstruje nastavení lokální počítačové sítě (LAN) s využitím služeb DNS, HTTP a DHCP. Konfigurace byla provedena v programu Cisco Packet Tracer.
 
