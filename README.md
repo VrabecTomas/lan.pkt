@@ -10,8 +10,7 @@ Tento úkol demonstruje nastavení lokální počítačové sítě (LAN) s využ
 
 ## Provedená konfigurace
 
-### 1. Správa Switche (Terminal)
-Pomocí Laptopu připojeného přes konzolový kabel (RS232 -> Console) byl nastaven název switche:
+### Hlavní přehled
 ```bash
 Switch>enable
 Switch#configure terminal
