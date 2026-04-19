@@ -11,15 +11,15 @@ Tento úkol demonstruje nastavení lokální počítačové sítě (LAN) s využ
 ## Provedená konfigurace
 
 ### Hlavní přehled
-* SRV1 (DNS & DHCP): * Nastavení DNS záznamu pro doménu vrabec.cz směřující na webový server.
+* **SRV1 (DNS & DHCP):** Nastavení DNS záznamu pro doménu vrabec.cz směřující na webový server.
 
-* Konfigurace DHCP poolu pro automatické přidělování IP adres v síti.
+* **Konfigurace DHCP** poolu pro automatické přidělování IP adres v síti.
 
-* SRV2 (HTTP): Nastavení webového serveru a úprava index.html.
+* **SRV2 (HTTP):** Nastavení webového serveru a úprava index.html.
 
-* PC1: Ruční nastavení IP a ověření funkčnosti pomocí ping a webového prohlížeče.
+* **PC1:** Ruční nastavení IP a ověření funkčnosti pomocí ping a webového prohlížeče.
 
-* PC2: Ověření funkčnosti DHCP (automatické získání adresy).
+* **PC2:** Ověření funkčnosti DHCP (automatické získání adresy).
 
 Obsah odevzdání:
 ```bash
