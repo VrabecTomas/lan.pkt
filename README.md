@@ -5,7 +5,7 @@ Tento repozitář obsahuje konfiguraci lokální sítě (LAN) zaměřenou na slu
 ## Obsah odevzdání
 * `lan.pkt` – Zdrojový soubor projektu pro Cisco Packet Tracer.
 * `README.md` – Popis sítě, technické výpočty a dokumentace.
-* `/screenshots` – Složka se snímky obrazovky potvrzujícími funkčnost.
+* `/screenshots` – Všechny screenshoty jsou samostatně.
 
 ---
 
@@ -35,9 +35,9 @@ Maska `/24` (binárně 24 jedniček) určuje, že první tři oktety (`192.168.1
 
 ---
 
-## 3. Snímky obrazovky (Důkazy funkčnosti)
+## 3. Snímky obrazovky
 
-V repozitáři (složka `screenshots`) jsou doloženy tyto kroky:
+V repozitáři zde (ve složce) jsou doloženy tyto kroky:
 
 1.  **Terminal (S1):** Konfigurace `hostname S1` přes konzoli Laptopu.
 2.  **DNS Config:** Nastavení záznamu typu A pro doménu `vrabec.cz` na SRV1.
