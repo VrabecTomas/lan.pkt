@@ -47,7 +47,7 @@ V repozitáři (složka `screenshots`) jsou doloženy tyto kroky:
 
 ---
 
-## 4. Konfigurace služeb v kostce
+## 4. Konfigurace
 | Služba | Parametry |
 | :--- | :--- |
 | **DNS** | `vrabec.cz` -> `192.168.179.11` |
